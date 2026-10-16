@@ -1,0 +1,10 @@
+{
+  "name": "mcp-key2oauth-jan",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-04-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "kv_namespaces": [
+    { "binding": "OAUTH_KV", "id": "74221b64b7f249dbb2a0047860415395" },
+    { "binding": "SLUG_KV", "id": "55fe18d360ea4abba2bde2b14e4faaf5" }
+  ]
+}
